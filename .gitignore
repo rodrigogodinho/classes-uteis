@@ -1,0 +1,17 @@
+T
+.vscode/
+.vscode
+.vscode/*
+.vscode/servers.json
+.vscode/settings.json
+protheus-dev-sandbox.yml
+*_teste.*
+ferramentas/
+ignore/
+teste/
+tss
+.vscode/servers.json
+*.dmp
+console_error.log
+teste/tsgen001.prw
+.vscode/servers.json
