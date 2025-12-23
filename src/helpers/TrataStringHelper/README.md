@@ -104,3 +104,8 @@ oTrataStr:AddConfigurador(oCSVChrCfg):AddConfigurador(oJSONCfg)
 ## Como Contribuir
 
 Para contribuir especificamente com esta classe ou com a pasta de configuradores, utilize o fluxo padrão de Fork e Pull Request detalhado na raiz deste repositório. Certifique-se de que novos configuradores possuam nomes descritivos e documentação interna sobre quais caracteres ou padrões estão sendo tratados.
+
+
+## Agradecimentos
+
+Agradecimento ao amigo Claudio Donizete ( [@claudiosdonizete](https://github.com/claudiosdonizete) ), que necessitava realizar o tratamento de strings e cuja dúvida era se teria alguma função ou classe do padrão que faria tal tratamento. Como não encontramos na documentação online algo no padrão para atender o caso, concluimos que teria que fazer muitas operações utilizando as funções padrão diretamente no código, de modo que não seria algo reaproveitável. Dai surgiu a ideia de criar uma classe para fazê-lo. Além da dúvida inicial, também colaborou na conceitualização do projeto.
